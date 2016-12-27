@@ -1,3 +1,5 @@
+
+/*php program*/
 <?php
 
 include_once 'db.php';
